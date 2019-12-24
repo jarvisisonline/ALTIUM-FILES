@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=J5 Old Footprint=61500814221 New Footprint=61500814221
+Change Component Footprint: Designator=J11 Old Footprint=61500814221 New Footprint=61500814221
+Change Component Footprint: Designator=J10 Old Footprint=694108301002 New Footprint=694108301002
+Added Pin To Net: NetName=5V Pin=J2-1
+Added Pin To Net: NetName=5V Pin=P4-1

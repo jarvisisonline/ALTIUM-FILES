@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=ACT2A Pin=J3-1
+Removed Pin From Net: NetName=ACT2B Pin=J3-2
+Removed Pin From Net: NetName=ACT1A Pin=J3-3
+Removed Pin From Net: NetName=ACT1B Pin=J4-3
+Added Pin To Net: NetName=ACT1B Pin=J3-1
+Added Pin To Net: NetName=ACT2A Pin=J3-2
+Added Pin To Net: NetName=ACT2B Pin=J3-3
+Added Pin To Net: NetName=ACT1A Pin=J4-3
+Added Room: Name=ARM+SERVO+I O
+Added Room: Name=POE+POWER+SERVO+CAMERA
+Added Room: Name=STM32 BOARD

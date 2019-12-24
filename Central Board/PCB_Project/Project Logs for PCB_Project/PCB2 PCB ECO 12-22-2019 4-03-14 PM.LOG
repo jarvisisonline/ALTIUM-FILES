@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=ARM SERVO 1 Pin=J1-2
+Removed Pin From Net: NetName=ARM SERVO 1 Pin=J1-3
+Removed Pin From Net: NetName=ARM SERVO 1 Pin=J1-4
+Removed Pin From Net: NetName=ARM SERVO 1 Pin=TB1-43
+Removed Pin From Net: NetName=ARM SERVO 1 Pin=TB1-44
+Removed Pin From Net: NetName=ARM SERVO 1 Pin=TB1-46
+Change Component Footprint: Designator=J5 Old Footprint=61500814221 New Footprint=61500814221
+Change Component Footprint: Designator=J11 Old Footprint=61500814221 New Footprint=61500814221
+Change Component Footprint: Designator=J10 Old Footprint=694108301002 New Footprint=694108301002
+Change Net Name : Old Net Name=ARM SERVO 1 New Net Name=GND
+Added Pin To Net: NetName=ARM SERVO 1 Pin=J1-2
+Added Pin To Net: NetName=ARM SERVO 1 Pin=TB1-44
+Added Net: Name=ARM SERVO 1
+Added Pin To Net: NetName=ARM SERVO 2 Pin=J1-3
+Added Pin To Net: NetName=ARM SERVO 2 Pin=TB1-43
+Added Net: Name=ARM SERVO 2
+Added Pin To Net: NetName=ARM SERVO 3 Pin=J1-4
+Added Pin To Net: NetName=ARM SERVO 3 Pin=TB1-46
+Added Net: Name=ARM SERVO 3
+Added Room: Name=ARM+SERVO+I O
+Added Room: Name=POE+POWER+SERVO+CAMERA
+Added Room: Name=STM32 BOARD
